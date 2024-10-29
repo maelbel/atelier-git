@@ -7,6 +7,6 @@ Ajout d'un nouveau paragraphe.
 ### feature-b
 Ajout d'un autre paragraphe.
 
-## Étape 5
+## Étape 5: Rebase avec conflit
 ### feature-d
 Ajout d'un autre paragraphe.
